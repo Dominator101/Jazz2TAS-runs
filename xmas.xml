@@ -1,0 +1,4265 @@
+<?xml version="1.0"?>
+<ArrayOfLevel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Level LevelName="xmas1">
+    <Inputs>
+      <Inputs Frame="0">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="6">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="7">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="12">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="13">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="18">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="19">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="24">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="25">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="28">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="30">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="40">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="44">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="67">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="85">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="130">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="170">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="190">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="219">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="223">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="224">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="255">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="286">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="350">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="450">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="534">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="555">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="586">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="639">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="649">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="707">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="712">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="761">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="780">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="785">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="800">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="815">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="826">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="843">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="850">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="864">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="867">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="868">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>7</Gun>
+      </Inputs>
+      <Inputs Frame="887">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="892">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="897">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="989">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="999">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1046">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1135">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1160">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1164">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1220">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1243">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1246">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1255">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1259">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1260">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1261">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1266">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1267">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1274">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1278">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1282">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1286">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1287">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1288">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1333">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1343">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1371">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1410">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1431">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1446">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1516">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1603">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1625">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1643">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1683">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1693">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1697">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1713">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1735">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1740">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="1775">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1780">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1825">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1830">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1835">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1918">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2081">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2100">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2155">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2190">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>7</Gun>
+      </Inputs>
+      <Inputs Frame="2201">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2240">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2250">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2320">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2355">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2365">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2404">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2414">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2438">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun>5</Gun>
+      </Inputs>
+      <Inputs Frame="2448">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2476">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2477">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2580">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2590">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2680">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2688">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2719">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2735">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2740">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+    </Inputs>
+  </Level>
+  <Level LevelName="xmas2">
+    <Inputs>
+      <Inputs Frame="0">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="25">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="80">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="90">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="105">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="124">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="128">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="154">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>5</Gun>
+      </Inputs>
+      <Inputs Frame="213">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="235">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="292">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="311">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="323">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="324">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="325">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="326">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="335">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="340">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="405">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="410">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="465">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="485">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="545">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="555">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="610">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="615">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="620">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="758">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="801">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="891">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="918">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="934">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="955">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="990">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1006">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1183">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1250">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="1290">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1300">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1340">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>5</Gun>
+      </Inputs>
+      <Inputs Frame="1375">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1380">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1381">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1520">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1550">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1555">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1556">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1695">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1725">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1730">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1731">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1870">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1899">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1904">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1905">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2088">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2160">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2170">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2241">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2278">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="2280">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2290">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2371">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2373">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2425">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2462">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2505">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2510">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2615">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2620">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2683">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2698">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2699">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2714">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2715">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2720">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2758">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2805">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2899">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2935">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3010">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3035">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3180">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3350">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3390">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3425">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3430">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3620">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3675">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3680">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3700">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3705">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3745">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3753">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3763">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3773">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3830">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3840">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3860">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3880">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3910">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3914">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3919">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3935">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3940">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3984">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4015">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>7</Gun>
+      </Inputs>
+      <Inputs Frame="4039">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4051">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4066">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4076">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="4126">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4143">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4144">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4145">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4150">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4200">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4205">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4210">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4215">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4251">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4256">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4270">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4290">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4300">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4305">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4310">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4330">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4332">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4337">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4355">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4399">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4440">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4470">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4538">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4565">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4570">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4610">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4615">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4653">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4681">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4686">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4700">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4705">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4741">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4749">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4766">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4781">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4782">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4789">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4795">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4814">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4822">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+    </Inputs>
+  </Level>
+  <Level LevelName="xmas3">
+    <Inputs>
+      <Inputs Frame="0">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="70">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="75">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="210">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="215">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="411">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="426">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="432">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="442">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="555">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="573">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="584">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="610">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="633">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="656">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="665">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="690">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="703">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="806">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="843">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="865">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="875">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="904">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="930">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="945">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>7</Gun>
+      </Inputs>
+      <Inputs Frame="952">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="979">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="984">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="994">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1070">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1258">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1320">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1325">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1380">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1412">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1413">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>2</Gun>
+      </Inputs>
+      <Inputs Frame="1438">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1464">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1474">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1496">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1510">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1590">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1600">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1680">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1690">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1760">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1837">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1852">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="1865">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1872">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1890">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1900">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1945">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1950">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="1970">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2305">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2360">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2402">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2403">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2420">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2653">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+        <Sequence>
+          <Length>3</Length>
+          <Repeats>48</Repeats>
+          <Inputs>
+            <Inputs Frame="0">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>true</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+            <Inputs Frame="1">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+          </Inputs>
+        </Sequence>
+      </Inputs>
+      <Inputs Frame="2820">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2842">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2857">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2860">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2862">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2872">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2873">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2920">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2945">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2982">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2989">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="2999">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3175">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3185">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3248">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3250">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+        <Sequence>
+          <Length>6</Length>
+          <Repeats>4</Repeats>
+          <Inputs>
+            <Inputs Frame="0">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>true</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+            <Inputs Frame="3">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+          </Inputs>
+        </Sequence>
+      </Inputs>
+      <Inputs Frame="3260">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3280">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3303">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3500">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3661">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3800">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3820">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3890">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="3950">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4045">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4080">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4100">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4165">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4171">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4203">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4235">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4255">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4290">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4295">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4300">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4330">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4420">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4458">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4560">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4616">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4670">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4713">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4740">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4750">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4805">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4810">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>7</Gun>
+      </Inputs>
+      <Inputs Frame="4901">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4931">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4936">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>2</Gun>
+      </Inputs>
+      <Inputs Frame="4950">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4955">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4980">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="4985">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5045">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5110">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5155">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5200">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5235">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5240">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5256">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5277">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5299">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5309">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5319">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5329">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5331">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>1</Gun>
+      </Inputs>
+      <Inputs Frame="5360">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5430">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5460">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5480">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5490">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5531">
+        <Right>true</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5600">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5669">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5670">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5722">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>true</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5731">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5740">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5769">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5798">
+        <Right>false</Right>
+        <Left>true</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>true</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+      </Inputs>
+      <Inputs Frame="5807">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>4</Gun>
+      </Inputs>
+      <Inputs Frame="5853">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+        <Sequence>
+          <Length>6</Length>
+          <Repeats>1</Repeats>
+          <Inputs>
+            <Inputs Frame="0">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>true</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+            <Inputs Frame="3">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+          </Inputs>
+        </Sequence>
+      </Inputs>
+      <Inputs Frame="5930">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>true</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun>5</Gun>
+        <Sequence>
+          <Length>6</Length>
+          <Repeats>100</Repeats>
+          <Inputs>
+            <Inputs Frame="0">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>true</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+            <Inputs Frame="3">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>false</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+          </Inputs>
+        </Sequence>
+      </Inputs>
+      <Inputs Frame="5941">
+        <Right>false</Right>
+        <Left>false</Left>
+        <Up>false</Up>
+        <Down>false</Down>
+        <Jump>false</Jump>
+        <Shoot>false</Shoot>
+        <Run>true</Run>
+        <Gun xsi:nil="true" />
+        <Sequence>
+          <Length>4</Length>
+          <Repeats>41</Repeats>
+          <Inputs>
+            <Inputs Frame="0">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>true</Down>
+              <Jump>true</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+            <Inputs Frame="2">
+              <Right>false</Right>
+              <Left>false</Left>
+              <Up>false</Up>
+              <Down>true</Down>
+              <Jump>false</Jump>
+              <Shoot>false</Shoot>
+              <Run>false</Run>
+              <Gun xsi:nil="true" />
+            </Inputs>
+          </Inputs>
+        </Sequence>
+      </Inputs>
+    </Inputs>
+  </Level>
+</ArrayOfLevel>
